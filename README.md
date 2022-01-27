@@ -1,2 +1,2 @@
-# raghumahajan.hithub.io
+# raghumahajan.github.io
 Personal Website
